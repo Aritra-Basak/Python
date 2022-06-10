@@ -1,0 +1,5 @@
+x =eval(input("Enter a number"))
+y= eval(input("enter another number"))
+print(x+y)
+result = eval(input("Enter the expression "))
+print(result)
