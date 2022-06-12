@@ -2,7 +2,7 @@
 class Computer:
   def config(self):
     print("Ryzen 3, 8gb , 1TB")
-com1 =Computer()
+com1 =Computer() #creating object of class type
 print(type(com1))
 com1.config()
 class Computer2:
