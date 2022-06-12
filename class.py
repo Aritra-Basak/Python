@@ -1,4 +1,4 @@
-//understanding class and methods 
+#understanding class and methods 
 class Computer:
   def config(self):
     print("Ryzen 3, 8gb , 1TB")
