@@ -11,4 +11,4 @@ class School2:
 c1=School(1,2,3)
 c2=School2()
 c2.show(1,2,3)
-#we need to pass self everytime when we pass values or arguments in a method or in a constructor cause while creating object of it,s respective classes that object is also passed and that object is passed through self as an argument.
+#We need to pass self everytime when we pass values or arguments in a method or in a constructor cause while creating object of it's respective classes that object is also passed and that object is passed through self as an argument.
